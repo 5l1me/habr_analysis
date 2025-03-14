@@ -1,1 +1,1 @@
-## Анализ данных с https://www.kaggle.com/competitions/howpop-habrahabr-favs/leaderboard
+## Анализ статистики статей на Хабр с https://www.kaggle.com/competitions/howpop-habrahabr-favs/leaderboard
